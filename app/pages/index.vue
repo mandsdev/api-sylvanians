@@ -66,7 +66,7 @@
     <section class="mx-auto max-w-6xl px-5 pt-12 pb-10 sm:px-8 sm:pt-16">
       <div class="grid gap-8 md:grid-cols-[1fr_18rem] md:items-end">
         <div>
-          <h1 class="ml-16 max-w-2xl font-serif text-4xl leading-tight text-[#9c516a] sm:text-5xl">
+          <h1 class="max-w-2xl font-serif text-4xl leading-tight text-[#9c516a] sm:text-5xl">
             Encontre sua próxima família favorita.
           </h1>
           <p class="mt-4 ml-16 max-w-xl text-center text-base leading-7 text-[#630a28]">
