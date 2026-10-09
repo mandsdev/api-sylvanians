@@ -70,7 +70,7 @@
             Encontre sua próxima família favorita.
           </h1>
           <p class="mt-4 ml-16 max-w-xl text-center text-base leading-7 text-[#630a28]">
-            Explore os items, conheça suas histórias e descubra tudo.
+            Explore os itens, conheça suas histórias e descubra tudo.
           </p>
         </div>
         <Search v-model="search" />
