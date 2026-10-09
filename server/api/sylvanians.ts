@@ -1,4 +1,4 @@
-import familiesData from '../../sylvanians.json'
+import familiesData from '~~/sylvanians.json'
 
 const customFamilies = [
   {
@@ -8,10 +8,12 @@ const customFamilies = [
     originalName: 'Chocolate Rabbit Family',
     species: 'Famílias',
     category: 'Famílias',
-    image: 'https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2356_1659686016973.jpg',
-    story: 'Uma família de coelhos. O pai Frasier Chocolate adora planejar todos os tipos de eventos e festas divertidas para a Vila Sylvanian.',
+    image:
+      'https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2356_1659686016973.jpg',
+    story:
+      'Uma família de coelhos. O pai Frasier Chocolate adora planejar todos os tipos de eventos e festas divertidas para a Vila Sylvanian.',
     members: ['Frasier (Pai)', 'Teri (Mãe)', 'Coco (Irmão)', 'Freya (Irmã)'],
-    price: 'R$ 150,00'
+    price: 'R$ 150,00',
   },
   {
     id: '2',
@@ -21,10 +23,18 @@ const customFamilies = [
     species: 'Famílias',
     category: 'Famílias',
     image: 'https://www.sylvanianfamilies.com/assets/common/characters/img/detail/022.jpg',
-    story: 'Uma família muito divertida e mágica, eles possuem conhecimentos sobre truques fantásticos e misticismo.',
-    members: ['James Midnight (Pai)', 'Allison Midnight (Mãe)', 'Emile Midnight (Irmão mais velho)', 'Chantelle Midnight (Irmã mais velha)', 'Gloria Midnight (Bebê menina)', 'Reggie Midnight (Bebê menino)'],
+    story:
+      'Uma família muito divertida e mágica, eles possuem conhecimentos sobre truques fantásticos e misticismo.',
+    members: [
+      'James Midnight (Pai)',
+      'Allison Midnight (Mãe)',
+      'Emile Midnight (Irmão mais velho)',
+      'Chantelle Midnight (Irmã mais velha)',
+      'Gloria Midnight (Bebê menina)',
+      'Reggie Midnight (Bebê menino)',
+    ],
     releaseYear: '2020',
-    price: 'R$ 150,00'
+    price: 'R$ 150,00',
   },
   {
     id: '3',
@@ -34,28 +44,38 @@ const customFamilies = [
     species: 'Famílias',
     category: 'Famílias',
     image: 'https://www.sylvanianfamilies.com/assets/common/characters/img/detail/010.jpg',
-    story: 'Uma das famílias mais elegantes e ativas do vilarejo de Sylvania, adoram moda e esportes.',
-    members: ['Mason Marlowe (Pai)', 'Natalie Marlowe (Mãe)', 'Felicia Marlowe (Irmã mais velha)', 'Lily e Rose Marlowe (Irmãs gêmeas)', 'Trigêmeos (Peppermint, Angelica e Midnight)'],
+    story:
+      'Uma das famílias mais elegantes e ativas do vilarejo de Sylvania, adoram moda e esportes.',
+    members: [
+      'Mason Marlowe (Pai)',
+      'Natalie Marlowe (Mãe)',
+      'Felicia Marlowe (Irmã mais velha)',
+      'Lily e Rose Marlowe (Irmãs gêmeas)',
+      'Trigêmeos (Peppermint, Angelica e Midnight)',
+    ],
     releaseYear: '2008',
-    price: 'R$ 150,00'
+    price: 'R$ 150,00',
   },
 ]
 
 const families = [
   ...customFamilies,
-  ...familiesData.filter((family) =>
-    !customFamilies.some((customFamily) => customFamily.productCode === family.productCode)
+  ...familiesData.filter(
+    (family) =>
+      !customFamilies.some((customFamily) => customFamily.productCode === family.productCode),
   ),
 ]
 
-const normalize = (value: string | undefined) =>
-  (value ?? '')
+function normalize(value: string | undefined): string {
+  return (value ?? '')
     .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
+    .replaceAll(/[\u0300-\u036F]/gu, '')
     .toLocaleLowerCase('pt-BR')
+}
 
 export default defineEventHandler((event) => {
-  const query = normalize(String(getQuery(event).name ?? '').trim())
+  const { name } = getQuery(event)
+  const query = normalize(typeof name === 'string' ? name.trim() : undefined)
 
   const results = families.filter((family) => {
     const searchableValues = [
@@ -65,7 +85,7 @@ export default defineEventHandler((event) => {
       family.category,
       family.productCode,
       family.story,
-      family.members?.join(' '),
+      family.members.join(' '),
     ]
 
     return searchableValues.some((value) => normalize(value).includes(query))

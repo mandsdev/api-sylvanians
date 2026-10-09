@@ -15,11 +15,23 @@ interface SylvaniansResponse {
   total: number
   results: Sylvanian[]
 }
+type SylvaniansFetch = ReturnType<typeof useFetch<SylvaniansResponse>>
 
-export const useSylvanians = () => {
+interface UseSylvaniansReturn {
+  search: Ref<string>
+  response: SylvaniansFetch['data']
+  error: SylvaniansFetch['error']
+  pending: SylvaniansFetch['pending']
+}
+
+export function useSylvanians(): UseSylvaniansReturn {
   const search = ref('')
-  const { data: response, error, pending } = useFetch<SylvaniansResponse>('/api/sylvanians', {
-    query: { name: search }
+  const {
+    data: response,
+    error,
+    pending,
+  } = useFetch<SylvaniansResponse>('/api/sylvanians', {
+    query: { name: search },
   })
 
   return { search, response, error, pending }

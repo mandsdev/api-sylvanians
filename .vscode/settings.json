@@ -1,0 +1,24 @@
+{
+  // Use OXC as the default code formatter in VSCode
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+
+  // Automatically format files whenever you save them
+  "editor.formatOnSave": true,
+
+  // Apply OXC auto-fix actions on save (only when explicitly configured)
+  "editor.codeActionsOnSave": {
+    "source.fixAll.oxc": "explicit"
+  },
+
+  // Enable type-aware linting
+  "oxc.typeAware": true,
+
+  // Run OXC linter automatically on type
+  "oxc.lint.run": "onType",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}

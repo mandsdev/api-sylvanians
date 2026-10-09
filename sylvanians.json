@@ -8,13 +8,7 @@
     "category": "Produtos Limitados de Aniversário de 40 anos",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2679_1769579996866.jpg",
     "story": "A Família Dálmata se destaca pelas manchas únicas e pelas roupas combinando.",
-    "members": [
-      "Pai Dálmata",
-      "Mãe Dálmata",
-      "Menino Dálmata",
-      "Menina Dálmata",
-      "Bebê Dálmata"
-    ],
+    "members": ["Pai Dálmata", "Mãe Dálmata", "Menino Dálmata", "Menina Dálmata", "Bebê Dálmata"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2679",
     "price": "R$ 140,90"
   },
@@ -23,7 +17,7 @@
     "productCode": "5863",
     "name": "Família dos Coelhos Cauda de Algodão Kit de Celebração",
     "originalName": "Cottontail Rabbit Family Celebration Set",
-    "species": "coelhos",
+    "species": "Produtos Limitados de Aniversário de 40 anos",
     "category": "Produtos Limitados de Aniversário de 40 anos",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2686_1769581426485.jpg",
     "story": "Um conjunto comemorativo da Família Coelho Cauda de Algodão, criado para celebrar os 40 anos de Sylvanian Families.",
@@ -71,10 +65,7 @@
     "category": "Produtos Limitados de Aniversário de 40 anos",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2646_1753766630341.jpg",
     "story": "Freya, a menina Coelho Chocolate, usa um vestido inspirado em bolo de morango e vem com uma cadeira para exposição.",
-    "members": [
-      "Menina Coelho Chocolate",
-      "cadeira"
-    ],
+    "members": ["Menina Coelho Chocolate", "cadeira"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2646",
     "price": "R$ 140,90"
   },
@@ -87,11 +78,7 @@
     "category": "Produtos Limitados de Aniversário de 40 anos",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2645_1753766494172.jpg",
     "story": "O trio reúne um menino Rato Marshmallow, um bebê Gato Cinza e um bebê Husky com fantasias de monstrinhos cujos olhos giram ao agitar.",
-    "members": [
-      "Menino Rato Marshmallow",
-      "Bebê Gato Cinza",
-      "Bebê de colo Husky"
-    ],
+    "members": ["Menino Rato Marshmallow", "Bebê Gato Cinza", "Bebê de colo Husky"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2645",
     "price": "R$ 140,90"
   },
@@ -127,10 +114,7 @@
     "category": "Produtos Limitados de Aniversário de 40 anos",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2628_1749699508647.jpg",
     "story": "Freya e Theo aparecem em roupas exclusivas neste conjunto limitado que celebra os 40 anos da Sylvanian Families.",
-    "members": [
-      "Menina Coelho Chocolate",
-      "Menino Urso Biscoito"
-    ],
+    "members": ["Menina Coelho Chocolate", "Menino Urso Biscoito"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2628",
     "price": "R$ 140,90"
   },
@@ -269,12 +253,7 @@
     "category": "Parque de Diversões",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2591_1736829408456.jpg",
     "story": "Um conjunto contendo um navio voador com muitos recursos divertidos e o bebê Gato Latte em uma linda fantasia de fada. As asas do navio voador batem para cima e para baixo enquanto ele se move. Figuras de crianças e bebês podem se sentar no navio voador. O navio voador pode ser colocado em seu suporte e usado como um enfeite. Parece que ele está voando de verdade!",
-    "members": [
-      "Latte Cat Baby",
-      "skyship",
-      "flag",
-      "stand"
-    ],
+    "members": ["Latte Cat Baby", "skyship", "flag", "stand"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2591",
     "price": "R$ 350,00"
   },
@@ -287,12 +266,7 @@
     "category": "Parque de Diversões",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2589_1736828873239.jpg",
     "story": "Um conjunto contendo um carro alegórico da lua, um trem a vapor, um mini navio voador e o bebê de berço Gato Latte. Conecte o trem a vapor ao carro alegórico da lua e faça um desfile! O trem a vapor balança para cima e para baixo enquanto se move.",
-    "members": [
-      "Latte Cat Cradled Baby",
-      "moon float",
-      "steam train",
-      "baby skyship"
-    ],
+    "members": ["Latte Cat Cradled Baby", "moon float", "steam train", "baby skyship"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2589",
     "price": "R$ 350,00"
   },
@@ -481,11 +455,7 @@
     "category": "Parque de Diversões",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2392_1671684077920.jpg",
     "story": "O Trem Arco-Íris Flutuando na Nuvem conta com um lindo desfile com muitas peças móveis, junto com o bebê Raposa-do-deserto de orelhas longas. ",
-    "members": [
-      "Trem Arco-Íris",
-      "bebê Raposa-do-deserto",
-      "Gorro"
-    ],
+    "members": ["Trem Arco-Íris", "bebê Raposa-do-deserto", "Gorro"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2392",
     "price": "R$ 350,00"
   },
@@ -938,9 +908,7 @@
     "category": "Viagem da Família e Praia",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131052068.PT04.jpg",
     "story": "Este é o grande barco de passeio dos habitantes da Vila Sylvanian. Há duas camas, uma cozinha e refeitório dentro do barco, além de cobertores e cabine com chuveiro. No topo do barco há uma piscina com escorregador. Este conjunto inclui uma ilha com palmeira, grandes escorregadores, um bote com remos, vários móveis e um monte de acessórios. Também inclui a Irmã Coelho Chocolate com roupas especiais.",
-    "members": [
-      "Código do Item : 5206"
-    ],
+    "members": ["Código do Item : 5206"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1266",
     "price": "R$ 180,00"
   },
@@ -985,9 +953,7 @@
     "category": "Viagem da Família e Praia",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131041901.PT03.jpg",
     "story": "Este restaurante serve deliciosos pratos do mar, e acomoda a família inteira. O pessoal sempre pode apreciar o por do sol no terraço.",
-    "members": [
-      "Código do Item : 4190"
-    ],
+    "members": ["Código do Item : 4190"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1269",
     "price": "R$ 180,00"
   },
@@ -1000,9 +966,7 @@
     "category": "Viagem da Família e Praia",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131052105.jpg",
     "story": "O Navio do Tesouro é um grande playground, repleto de diversão e de muitas atividades. As crianças da Vila Sylvanian adoram brincar nele, fazendo uma verdadeira caça ao tesouro.",
-    "members": [
-      "Código do Item : 5210"
-    ],
+    "members": ["Código do Item : 5210"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1270",
     "price": "R$ 180,00"
   },
@@ -1030,9 +994,7 @@
     "category": "Viagem da Família e Praia",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2210_Ingrids_Camping_Set.jpg",
     "story": "Um conjunto completo de sobrevivência e lazer na floresta, projetado para que até dois personagens durmam e cozinhem ao ar livre.",
-    "members": [
-      "Código do Item : 2210"
-    ],
+    "members": ["Código do Item : 2210"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=89",
     "price": "R$ 180,00"
   },
@@ -1045,9 +1007,7 @@
     "category": "Viagem da Família e Praia",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915027922.PT03.jpg",
     "story": "Este conjunto inclui a Mamãe Coelho, quiosque com frutas, conservas, um banco e um monte de acessórios.",
-    "members": [
-      "Código do Item : 4478"
-    ],
+    "members": ["Código do Item : 4478"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=114",
     "price": "R$ 180,00"
   },
@@ -1060,9 +1020,7 @@
     "category": "Viagem da Família e Praia",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915028097.jpg",
     "story": "Neste adorável carrinho as crianças encontram deliciosas pipocas e doces.",
-    "members": [
-      "Código do Item : 4610"
-    ],
+    "members": ["Código do Item : 4610"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=302",
     "price": "R$ 180,00"
   },
@@ -1075,9 +1033,7 @@
     "category": "Viagem da Família e Praia",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131052075.PT03.jpg",
     "story": "Este conjunto inclui um monte de acessórios para uma festa na praia ou no convés do barco. Também inclui a Irmã Coelho Chocolate usando um vestido especial de festa.",
-    "members": [
-      "Código do Item : 5207"
-    ],
+    "members": ["Código do Item : 5207"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1267",
     "price": "R$ 180,00"
   },
@@ -1090,9 +1046,7 @@
     "category": "Viagem da Família e Praia",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131052099.PT04.jpg",
     "story": "A Irmã Gato de Seda adora acampar, tem até uma roupa especial para fazer isso! O Acampamento na Praia acompanha churrasqueira e acessórios para desfrutar um belo dia ao ar livre.",
-    "members": [
-      "Código do Item : 5209"
-    ],
+    "members": ["Código do Item : 5209"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1268",
     "price": "R$ 180,00"
   },
@@ -1105,9 +1059,7 @@
     "category": "Viagem da Família e Praia",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131052112.jpg",
     "story": "Este é o brinquedo em forma de baleia mais divertido da praia. Nas costas da baleia os bebês podem brincar de escorregar. Na boca, há um balde de areia, e uma baleiazinha amarela também ajuda na diversão!",
-    "members": [
-      "Código do Item : 5211"
-    ],
+    "members": ["Código do Item : 5211"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1271",
     "price": "R$ 180,00"
   },
@@ -1150,9 +1102,7 @@
     "category": "Viagem da Família e Praia",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131052310.jpg",
     "story": "O Carrossel Aquático acomoda três bebês em peixes que giram ao redor de uma fonte. Uma brincadeira divertida para os dias de calor.",
-    "members": [
-      "* Seaside Merry-Go-Round * 3 baby rides * Water Spray"
-    ],
+    "members": ["* Seaside Merry-Go-Round * 3 baby rides * Water Spray"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1381",
     "price": "R$ 180,00"
   },
@@ -2311,11 +2261,7 @@
     "category": "Famílias",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2680_1769580431551.jpg",
     "story": "Os Lulu da Pomerânia formam uma família tranquila e elegante. Gostam de estampas botânicas e de passar tempo juntos com suas roupas macias e coloridas.",
-    "members": [
-      "Pai Lulu da Pomerânia",
-      "Mãe Lulu da Pomerânia",
-      "Bebê Lulu da Pomerânia"
-    ],
+    "members": ["Pai Lulu da Pomerânia", "Mãe Lulu da Pomerânia", "Bebê Lulu da Pomerânia"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2680",
     "price": "R$ 150,00"
   },
@@ -2526,12 +2472,7 @@
     "category": "Famílias",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2280_1639388155794.jpg",
     "story": "A família das Cabras gosta de estar presente na comunidade: Billy trabalha como carteiro e está sempre circulando pela vila. Com Nancy, Mandy e Jenny, a rotina é cheia de passeios e momentos juntos.",
-    "members": [
-      "Pai cabra",
-      "Mãe cabra",
-      "Menina cabra",
-      "Bebê cabra"
-    ],
+    "members": ["Pai cabra", "Mãe cabra", "Menina cabra", "Bebê cabra"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2280",
     "price": "R$ 150,00"
   },
@@ -2564,12 +2505,7 @@
     "category": "Famílias",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2290_1639384160117.jpg",
     "story": "A família das Ovelhas é tranquila e afetuosa. Ewan, Barbara, Winton e Lona gostam de estar juntos e de usar suas roupas aconchegantes, com toucas combinando para mãe e filha.",
-    "members": [
-      "Pai Ovelha",
-      "Mãe Ovelha",
-      "Menino Ovelha",
-      "Menina Ovelha"
-    ],
+    "members": ["Pai Ovelha", "Mãe Ovelha", "Menino Ovelha", "Menina Ovelha"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2290",
     "price": "R$ 150,00"
   },
@@ -2856,9 +2792,7 @@
     "category": "Famílias",
     "image": "https://u-mercari-images.mercdn.net/photos/m30632432965_3.jpg?width=2560&quality=75&_=1762370559",
     "story": "Menino Coelho Chocolate é bom em futebol, ele pode chutar uma bola mais longe que qualquer um dos outros crianças. Ele está sempre de bom humor e faz seus amigos rirem com seus piadas, mas ele fica quieto de repente na aula de matemática porque não é muito bom nela.",
-    "members": [
-      "Código do Item : 5249"
-    ],
+    "members": ["Código do Item : 5249"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1542",
     "price": "R$ 150,00"
   },
@@ -2871,9 +2805,7 @@
     "category": "Famílias",
     "image": "https://sylvanianstorekeepers.com/cdn/shop/files/5014_pr118_1_f42c0cff-b100-4a70-b6f1-6821349533bb.jpg?v=1722945653",
     "story": "Mãe Coelho Chocolate é sempre responsável por sua família e torna a casa um lugar agradável para viver. Ela sempre prepara refeições deliciosas e reformula a roupa das crianças de forma bela quando elas crescem. Seus filhos pensam que ela pode fazer magia porque ela consegue criar qualquer coisa em pouco tempo.",
-    "members": [
-      "Código do Item : 5248"
-    ],
+    "members": ["Código do Item : 5248"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1541",
     "price": "R$ 150,00"
   },
@@ -2886,9 +2818,7 @@
     "category": "Famílias",
     "image": "https://sylvanianstorekeepers.com/cdn/shop/files/5013_pr586_1_c7d51616-c685-4c39-a941-4d1b6a4f025e.jpg?v=1722945637",
     "story": "O Pai Coelho Chocolate gosta de planejar todos os tipos de eventos e festas divertidas para serem realizadas na Vila Sylvanian. Seus amigos na vila o amam porque ele está sempre dando festas maravilhosas. Em seus dias de folga, ele gosta de assar pão para sua família.",
-    "members": [
-      "Código do Item : 5247"
-    ],
+    "members": ["Código do Item : 5247"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1540",
     "price": "R$ 150,00"
   },
@@ -2939,9 +2869,7 @@
     "category": "Famílias",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYp_ygI22Cn6kG9nXgOa970qTdZyQUlaEdzg0yyCRHvRwK2Z9bxIhhRo&s=10",
     "story": "Os Coelhos Chocolate são muito queridos na vila. Sociáveis e brincalhões, adoram estar com os amigos e transformar qualquer encontro em uma diversão.",
-    "members": [
-      "Código do Item : 4150"
-    ],
+    "members": ["Código do Item : 4150"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=28",
     "price": "R$ 150,00"
   },
@@ -2954,9 +2882,7 @@
     "category": "Famílias",
     "image": "https://m.media-amazon.com/images/I/61Tv6CpNkZL.jpg",
     "story": "Os Esquilos Noz são curiosos e cheios de energia. Gostam de subir nas árvores e procurar nozes pela floresta da vila.",
-    "members": [
-      "Código do Item : 4172"
-    ],
+    "members": ["Código do Item : 4172"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=29",
     "price": "R$ 150,00"
   },
@@ -2969,9 +2895,7 @@
     "category": "Famílias",
     "image": "https://wafuu.com/cdn/shop/files/sylvanian-families-dolls-silk-cat-family-fs-12-st-epoch-112193_540x.jpg?v=1739923510",
     "story": "Os Gatos de Seda são uma família artística e gentil. Fred adora dançar, Holly gosta de tricotar renda, Toby anima os amigos com suas apresentações e Tiffany sonha em criar roupas para todos.",
-    "members": [
-      "Código do Item : 4175"
-    ],
+    "members": ["Código do Item : 4175"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=30",
     "price": "R$ 150,00"
   },
@@ -3016,9 +2940,7 @@
     "category": "Famílias",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131051801.PT03.jpg",
     "story": "Os Gatos Listrados são uma família versátil e cheia de interesses. Gostam de esportes, arte e aventuras à beira-mar, cada um à sua maneira.",
-    "members": [
-      "Código do Item : 5180"
-    ],
+    "members": ["Código do Item : 5180"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1241",
     "price": "R$ 150,00"
   },
@@ -3031,9 +2953,7 @@
     "category": "Famílias",
     "image": "https://d2f5l3946sqs2n.cloudfront.net/Custom/Content/Products/64/33/6433_sylvanian-families-familia-dos-porcos-espinhos-epoch-031459_l10_637983299824116149.webp",
     "story": "Os Porcos-Espinhos são tímidos, mas muito criativos. Adoram costura e design de moda e gostam de expressar seu estilo nos trabalhos que fazem.",
-    "members": [
-      "Código do Item : 4018"
-    ],
+    "members": ["Código do Item : 4018"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=31",
     "price": "R$ 150,00"
   },
@@ -3046,9 +2966,7 @@
     "category": "Famílias",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylzP9N2IS-CRVD4on1-YOFIf4IblCcaWAVve9CX5QxGveRy6v7upHbjY&s=10",
     "story": "Os Ratos Brancos são curiosos e elegantes. Gostam de matemática, culinária e de usar a inteligência para aprender coisas novas.",
-    "members": [
-      "Código do Item : 4121"
-    ],
+    "members": ["Código do Item : 4121"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=282",
     "price": "R$ 150,00"
   },
@@ -3061,9 +2979,7 @@
     "category": "Famílias",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSULlDEs3xRZzkXQ_xcBTGKbDSCR3tqqwRaYhiCHqGneobkjLNiCcVZrvk&s=10",
     "story": "Os Cachorros de Seda são elegantes e adoram confeitaria. Fazer e saborear bolos é um dos prazeres que gostam de compartilhar.",
-    "members": [
-      "Código do Item : 5000"
-    ],
+    "members": ["Código do Item : 5000"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=32",
     "price": "R$ 150,00"
   },
@@ -3093,9 +3009,7 @@
     "category": "Famílias",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1410_rabbit_f_i.jpg",
     "story": "Os Coelhos são românticos e sonhadores. Gostam de poesia, jardinagem e de cuidar das flores do jardim.",
-    "members": [
-      "Código do Item : 1905"
-    ],
+    "members": ["Código do Item : 1905"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1",
     "price": "R$ 150,00"
   },
@@ -3108,9 +3022,7 @@
     "category": "Famílias",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1450_mouse_f_i.jpg",
     "story": "Os Ratos de Campo são habilidosos e aventureiros. Gostam de trabalhos manuais e de explorar a natureza ao ar livre.",
-    "members": [
-      "Código do Item : 1909"
-    ],
+    "members": ["Código do Item : 1909"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=4",
     "price": "R$ 150,00"
   },
@@ -3123,9 +3035,7 @@
     "category": "Famílias",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1430_cat_f_i.jpg",
     "story": "Os Gatos de Seda são elegantes e apreciam os prazeres refinados. Gostam de música clássica e de preparar pratos especiais.",
-    "members": [
-      "Código do Item : 1907"
-    ],
+    "members": ["Código do Item : 1907"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=3",
     "price": "R$ 150,00"
   },
@@ -3138,9 +3048,7 @@
     "category": "Famílias",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhFmBZiNSJb-k_5AbjH71-wiLLjJXB0K4sCkxCzPylXg&s=10",
     "story": "Os Gatos Persas são muito unidos e contemplativos. Gostam de arte e de observar a natureza com calma.",
-    "members": [
-      "Código do Item : 5216"
-    ],
+    "members": ["Código do Item : 5216"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1366",
     "price": "R$ 150,00"
   },
@@ -3153,9 +3061,7 @@
     "category": "Famílias",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1420_bear_f_i.jpg",
     "story": "Os Ursos são educados, generosos e apaixonados por doces. Também gostam de ajudar a comunidade e de reunir os amigos.",
-    "members": [
-      "Código do Item : 1906"
-    ],
+    "members": ["Código do Item : 1906"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2",
     "price": "R$ 150,00"
   },
@@ -3168,9 +3074,7 @@
     "category": "Famílias",
     "image": "https://sylvanianresources.com/sets/pig_family_eb_2.jpg",
     "story": "Os Porcos são trabalhadores e práticos. Gostam de enfrentar as tarefas juntos e valorizam a união da família.",
-    "members": [
-      "Código do Item : 1913"
-    ],
+    "members": ["Código do Item : 1913"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=468",
     "price": "R$ 150,00"
   },
@@ -3183,9 +3087,7 @@
     "category": "Famílias",
     "image": "https://rihappy.vtexassets.com/arquivos/ids/10205801-800-auto?v=639259393013370000&width=800&height=auto&aspect=true",
     "story": "Os Hamsters são otimistas e alegres. Adoram o verão e levam sua energia contagiante para as brincadeiras em família.",
-    "members": [
-      "Código do Item : 5121"
-    ],
+    "members": ["Código do Item : 5121"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=862",
     "price": "R$ 150,00"
   },
@@ -3198,9 +3100,7 @@
     "category": "Famílias",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1440_sheep_f_i.jpg",
     "story": "As Ovelhas são serenas e trabalhadoras. Gostam da vida no campo e de cuidar da terra com paciência.",
-    "members": [
-      "Código do Item : 1908"
-    ],
+    "members": ["Código do Item : 1908"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=6",
     "price": "R$ 150,00"
   },
@@ -3213,9 +3113,7 @@
     "category": "Famílias",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujtLTPZ7YrRWk1wg9wuXh73oO8zjmf9ORcvBxthWWiyQxMS7zFVY01R4W&s=10",
     "story": "As Raposas adoram correr pela floresta e disputar quem chega primeiro ao lago. Aventura e brincadeiras ao ar livre são os passatempos favoritos da família.",
-    "members": [
-      "Código do Item : 3127"
-    ],
+    "members": ["Código do Item : 3127"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=283",
     "price": "R$ 150,00"
   },
@@ -3228,9 +3126,7 @@
     "category": "Famílias",
     "image": "https://m.media-amazon.com/images/I/91sTh7ew86L._AC_UF350,350_QL80_.jpg",
     "story": "Os Macacos são criativos e cheios de energia. Gostam de inventar atividades e estão sempre começando algo novo.",
-    "members": [
-      "Código do Item : 5214"
-    ],
+    "members": ["Código do Item : 5214"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1364",
     "price": "R$ 150,00"
   },
@@ -3243,9 +3139,7 @@
     "category": "Famílias",
     "image": "https://preview.redd.it/anyone-know-what-set-the-red-panda-baby-comes-in-v0-acmpqhnh0c2b1.jpg?width=640&crop=smart&auto=webp&s=ca5bec1af0414b03fe177a32db4b85b515ea4878",
     "story": "Os Pandas-Vermelhos são acolhedores e generosos. Adoram receber os amigos de portas abertas e compartilhar o cheirinho de bolo fresquinho.",
-    "members": [
-      "Código do Item : 5215"
-    ],
+    "members": ["Código do Item : 5215"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1365",
     "price": "R$ 150,00"
   },
@@ -3258,9 +3152,7 @@
     "category": "Famílias",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1728_1527487159531.jpg",
     "story": "Os Coalas são muito unidos e ligados à natureza. Gostam de estar ao ar livre e de cuidar do meio ambiente em família.",
-    "members": [
-      "Código do Item : 3554"
-    ],
+    "members": ["Código do Item : 3554"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=478",
     "price": "R$ 150,00"
   },
@@ -3442,10 +3334,7 @@
     "category": "Bebês",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2349_1659679124816.jpg",
     "story": "A equipe de sorte que ficou em 1º lugar no Concurso de Fantasias de Bebê Sylvanian Families agora está disponível neste conjunto exclusivo. Conjunto com o bebê Labrador Amarelo, Poppy, vestido de tubarão e o bebê Toupeira, Mo, vestido de arraia. Os braços, pernas e cabeças dos bonecos podem ser movidos e colocados em diferentes posições. As roupas podem ser tiradas para mudar o look dos bonecos.",
-    "members": [
-      "Bebê Labrador Amarelo(Fantasia de Tubarão)",
-      "Bebê Toupeira (Fantasia de Raio)"
-    ],
+    "members": ["Bebê Labrador Amarelo(Fantasia de Tubarão)", "Bebê Toupeira (Fantasia de Raio)"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2349",
     "price": "R$ 70,00"
   },
@@ -3458,11 +3347,7 @@
     "category": "Bebês",
     "image": "https://rihappy.vtexassets.com/arquivos/ids/3810459-800-auto?v=637895172766430000&width=800&height=auto&aspect=true",
     "story": "O conjunto Bebê Ovelha possui a Emma, a bebê da família das ovelhas, que ficou em terceiro lugar nas eleições da família Sylvanian 2020. A Emma é uma bebê muito curiosa e adora explorar o mundo ao seu redor. Ela gosta de brincar com seus amigos e está sempre pronta para novas aventuras.",
-    "members": [
-      "Bebê Ovelha",
-      "chapéu",
-      "mochila"
-    ],
+    "members": ["Bebê Ovelha", "chapéu", "mochila"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2289",
     "price": "R$ 70,00"
   },
@@ -3557,9 +3442,7 @@
     "category": "Bebês",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1411_Rabbit_Baby_with_Crib.jpg",
     "story": "A bebê Coelho em seu berço.",
-    "members": [
-      "Código do Item : 1411"
-    ],
+    "members": ["Código do Item : 1411"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=8",
     "price": "R$ 70,00"
   },
@@ -3572,9 +3455,7 @@
     "category": "Bebês",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1431_Cat_Baby_with_See-saw.jpg",
     "story": "Ryan Teak, bebê gato persa, brincando em sua mini gangorra.",
-    "members": [
-      "Código do Item : 1431"
-    ],
+    "members": ["Código do Item : 1431"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=9",
     "price": "R$ 70,00"
   },
@@ -3587,9 +3468,7 @@
     "category": "Bebês",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1451_Mouse_Baby_with_Slide.jpg",
     "story": " Albert Marshmallow, o bebê rato que adora brincar no escorregador!",
-    "members": [
-      "Código do Item : 1451"
-    ],
+    "members": ["Código do Item : 1451"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=10",
     "price": "R$ 70,00"
   },
@@ -3602,9 +3481,7 @@
     "category": "Bebês",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1483_pig_b_car_c.jpg",
     "story": ": Richard Grunt, o bebe porco, adora brincar com seu carro. Ele gosta de correr pela vila Sylvanian e brincar com seus amigos.",
-    "members": [
-      "Código do Item : 1483"
-    ],
+    "members": ["Código do Item : 1483"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=471",
     "price": "R$ 70,00"
   },
@@ -3617,9 +3494,7 @@
     "category": "Bebês",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1421_Bear_Baby_with_Swing_.jpg",
     "story": "Jason Petite, o fofissimo Bebê da Família dos Ursos brincando em seu balanço. ",
-    "members": [
-      "Código do Item : 1421"
-    ],
+    "members": ["Código do Item : 1421"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=12",
     "price": "R$ 70,00"
   },
@@ -3632,9 +3507,7 @@
     "category": "Bebês",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1441_Sheep_Baby_with_Tricycle.jpg",
     "story": "Yulie Dale, a adorável Bebê da Família dos Ovelhas! Ela possui como grande marca registrada o seu pelo flocado especial ultra-macio que imita a textura de lã de carneirinho, e vem vestindo um lindo macacãozinho rosa de pano real. A ovelinha Yulie pedala de verdade!!",
-    "members": [
-      "Código do Item : 1441"
-    ],
+    "members": ["Código do Item : 1441"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=13",
     "price": "R$ 70,00"
   },
@@ -3715,11 +3588,7 @@
     "category": "Gêmeos",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2291_1639384397318.jpg",
     "story": "Este conjunto possui Gêmeos Ovelha. Sua família ficou em terceiro lugar nas Eleições da Sylvanian Families 2020! Contém os gêmeos Sean e Shona (sentado e em pé) e um carrinho de passeio.",
-    "members": [
-      "Gêmeo Ovelha (Sentada)",
-      "Ovelha gêmea (em pé)",
-      "Carrinho (Carro Amarelo)"
-    ],
+    "members": ["Gêmeo Ovelha (Sentada)", "Ovelha gêmea (em pé)", "Carrinho (Carro Amarelo)"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2291",
     "price": "R$ 70,00"
   },
@@ -3732,11 +3601,7 @@
     "category": "Gêmeos",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2283_1639382385466.jpg",
     "story": "Os Gêmeos Huskys são os bebês Amber (sentado) e Jeremy), juntamente com um carrinho de passeio.",
-    "members": [
-      "Gêmeo Husky (Sentado)",
-      "Gêmeo Husky (Rastejante)",
-      "Carrinho (Trem Amarelo)"
-    ],
+    "members": ["Gêmeo Husky (Sentado)", "Gêmeo Husky (Rastejante)", "Carrinho (Trem Amarelo)"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2283",
     "price": "R$ 70,00"
   },
@@ -3839,9 +3704,7 @@
     "category": "Minibox",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131051979.jpg",
     "story": "O Bebê Coelho Chocolate está ansioso pela sua refeição!",
-    "members": [
-      "Código do Item : 5197"
-    ],
+    "members": ["Código do Item : 5197"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1257",
     "price": "R$ 70,00"
   },
@@ -3854,9 +3717,7 @@
     "category": "Minibox",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131052020.jpg",
     "story": "A Bebê Coelho Chocolate está aprendendo muitas músicas em seu piano.",
-    "members": [
-      "Código do Item : 5202"
-    ],
+    "members": ["Código do Item : 5202"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1262",
     "price": "R$ 70,00"
   },
@@ -3869,9 +3730,7 @@
     "category": "Minibox",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/3499_carry_case_horse.jpg",
     "story": "Micro playsets portáteis compostos por uma maleta plástica texturizada com tampa transparente, contendo uma figura de bebê articulada de tamanho regular e seus respectivos brinquedos temáticos.",
-    "members": [
-      "Código do Item : 3499"
-    ],
+    "members": ["Código do Item : 3499"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=501",
     "price": "R$ 70,00"
   },
@@ -3884,9 +3743,7 @@
     "category": "Figuras e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915022033.PT03.jpg",
     "story": "O conjunto Irmão Coelho Chocolate e Toalete é o auge do realismo doméstico e da diversão, trazendo descargas mecânicas e mini rolos de papel funcionais.",
-    "members": [
-      "Código do Item : 5015"
-    ],
+    "members": ["Código do Item : 5015"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=64",
     "price": "R$ 80,00"
   },
@@ -3899,9 +3756,7 @@
     "category": "Figuras e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915022026.PT03.jpg",
     "story": "O conjunto Mãe Coelho Chocolate e Geladeira é o coração do abastecimento do lar, unindo a personagem mais icônica da vila com dezenas de micro alimentos reais.",
-    "members": [
-      "Código do Item : 5014"
-    ],
+    "members": ["Código do Item : 5014"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=63",
     "price": "R$ 80,00"
   },
@@ -3914,9 +3769,7 @@
     "category": "Figuras e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915022019.PT03.jpg",
     "story": "rasier Chocolate, o carismático e acolhedor Papai Coelho Chocolate assistindo TV em seu",
-    "members": [
-      "Código do Item : 5013"
-    ],
+    "members": ["Código do Item : 5013"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=62",
     "price": "R$ 80,00"
   },
@@ -3929,9 +3782,7 @@
     "category": "Figuras e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1821_mouse_s_desk_i.jpg",
     "story": " Stephanie Marshmallow, a adorável Irmã da Família dos Ratos Marshmallow estudando em sua escrivaninha que possui uma engenharia magnifica para organização!",
-    "members": [
-      "Código do Item : 1919"
-    ],
+    "members": ["Código do Item : 1919"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=17",
     "price": "R$ 80,00"
   },
@@ -3987,9 +3838,7 @@
     "category": "Figuras e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1823_bear_s_tv_i.jpg",
     "story": "Andromeda Petite, a carismática e adorável Irmã da Família dos Ursos assistindo TV. • Ela vem incluída de fábrica com seu clássico pelo flocado marrom-avelã super macio e vestindo um lindo vestidinho vermelho de pano real com gola branca. ",
-    "members": [
-      "Código do Item : 1920"
-    ],
+    "members": ["Código do Item : 1920"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=323",
     "price": "R$ 80,00"
   },
@@ -4002,9 +3851,7 @@
     "category": "Figuras e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5141_sheep_sister_with_kitchen_set.jpg",
     "story": " A fofíssima Irmã da Família dos Ovelhas! Ela vem incluída de fábrica com seu pelo flocado imitando lã e vestindo um lindo vestidinho longo xadrez de pano com avental de cozinha removível.",
-    "members": [
-      "Código do Item : 5015"
-    ],
+    "members": ["Código do Item : 5015"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=16",
     "price": "R$ 80,00"
   },
@@ -4017,9 +3864,7 @@
     "category": "Figuras e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915022361.PT03.jpg",
     "story": "Onde o vestido floral e as rodinhas creme encontram a brisa das colinas em miniatura. Prontos para pedalar com a mamãe e o bebê?",
-    "members": [
-      "Código do Item : 4281"
-    ],
+    "members": ["Código do Item : 4281"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=293",
     "price": "R$ 80,00"
   },
@@ -4032,9 +3877,7 @@
     "category": "Figuras e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/18108_Rabbit_Sister_with_Piano_Set.jpg",
     "story": " Conjunto Irmã Coelho com Piano é o ápice do talento e do encanto, trazendo a melodia perfeita para transformar a sua sala de estar em um concerto de gala.",
-    "members": [
-      "Código do Item : 5013"
-    ],
+    "members": ["Código do Item : 5013"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=403",
     "price": "R$ 80,00"
   },
@@ -4047,9 +3890,7 @@
     "category": "Figuras e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/18118_Cat_Sister_with_Oven_Set.jpg",
     "story": "A irmã gata faz parte da linha clássica simplificada (Easy Buy) que traz a figura da irmã gato acompanhada de um fogão/forno individual, assadeiras e utensílios de servir.",
-    "members": [
-      "Código do Item : 5341"
-    ],
+    "members": ["Código do Item : 5341"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=404",
     "price": "R$ 80,00"
   },
@@ -4062,9 +3903,7 @@
     "category": "Figuras e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637035679.PT03.jpg",
     "story": "Carrinhos perfeitos para brincar com os bebês! O bebê pode ser colocado no carrinho e empurrado para passear.",
-    "members": [
-      "Código do Item : 5040"
-    ],
+    "members": ["Código do Item : 5040"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=500",
     "price": "R$ 80,00"
   },
@@ -4502,10 +4341,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131052211.PT03.jpg",
     "story": "Uma cadeira elevada de alimentação projetada especificamente para que um bebê da vila coma na mesma altura que os adultos à mesa.",
-    "members": [
-      "* Baby High Chair * Cup",
-      "dish and spoon"
-    ],
+    "members": ["* Baby High Chair * Cup", "dish and spoon"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1376",
     "price": "R$ 80,00"
   },
@@ -4518,9 +4354,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1860_1563935166707.jpg",
     "story": "Um conjunto completo de dormitório e estudos infanto-juvenil, planejado para equipar o quarto das crianças com o máximo de realismo.",
-    "members": [
-      "Código do Item : 4254"
-    ],
+    "members": ["Código do Item : 4254"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=72",
     "price": "R$ 80,00"
   },
@@ -4533,9 +4367,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915029490.PT04.jpg",
     "story": " Uma estação compacta de trepa-trepa e escorregador infantil feita sob medida para a escala e altura das figuras de bebês.",
-    "members": [
-      "Código do Item : 5025"
-    ],
+    "members": ["Código do Item : 5025"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=319",
     "price": "R$ 80,00"
   },
@@ -4548,9 +4380,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2261_1627347852060.jpg",
     "story": "Um conjunto de dormitório infantil composto por duas camas que podem ser empilhadas ou usadas de forma independente.",
-    "members": [
-      "Código do Item : 1721"
-    ],
+    "members": ["Código do Item : 1721"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=310",
     "price": "R$ 80,00"
   },
@@ -4563,9 +4393,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1722_fridge_and_accessories_(2).jpg",
     "story": " Um conjunto de cozinha individual focado no armazenamento, organização e abastecimento de alimentos para os moradores.",
-    "members": [
-      "Código do Item : 1722"
-    ],
+    "members": ["Código do Item : 1722"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=311",
     "price": "R$ 80,00"
   },
@@ -4578,9 +4406,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1723_nursery_pushchair_(2).jpg",
     "story": " Um carrinho de passeio compacto e leve, projetado para transportar bebês da vila com segurança e conforto.",
-    "members": [
-      "Código do Item : 1723"
-    ],
+    "members": ["Código do Item : 1723"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=312",
     "price": "R$ 80,00"
   },
@@ -4593,9 +4419,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1615_Table_&_Chair.jpg",
     "story": " Um conjunto completo de mobília para sala focado no lazer da família em miniatura.",
-    "members": [
-      "Código do Item : 1615"
-    ],
+    "members": ["Código do Item : 1615"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=18",
     "price": "R$ 80,00"
   },
@@ -4608,9 +4432,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1616_Oven_Set.jpg",
     "story": " Um grande e luxuoso conjunto de eletrodomésticos e utensílios individuais para montar uma cozinha completa do zero.",
-    "members": [
-      "Código do Item : 1616"
-    ],
+    "members": ["Código do Item : 1616"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=19",
     "price": "R$ 80,00"
   },
@@ -4623,9 +4445,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1617_Bed_Set_for_Adult.jpg",
     "story": "",
-    "members": [
-      "Código do Item : 1617"
-    ],
+    "members": ["Código do Item : 1617"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=20",
     "price": "R$ 80,00"
   },
@@ -4638,9 +4458,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1618_Piano_Set.jpg",
     "story": "Um conjunto musical individual de alta classe, focado em trazer apresentações artísticas e diversão para as figuras do vilarejo.",
-    "members": [
-      "Código do Item : 1618"
-    ],
+    "members": ["Código do Item : 1618"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=21",
     "price": "R$ 80,00"
   },
@@ -4653,9 +4471,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1619_Bath_&_Toilet.jpg",
     "story": "Um mini conjunto individual focado na higiene pessoal e organização sanitária dos personagens.",
-    "members": [
-      "Código do Item : 1619"
-    ],
+    "members": ["Código do Item : 1619"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=22",
     "price": "R$ 80,00"
   },
@@ -4668,9 +4484,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5287_07_Living_Room_TV_Set.jpg",
     "story": " Um conjunto completo de mobília para sala focado no lazer da família e na interatividade com aparelhos eletrônicos em miniatura.",
-    "members": [
-      "Código do Item : 1716"
-    ],
+    "members": ["Código do Item : 1716"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=23",
     "price": "R$ 80,00"
   },
@@ -4683,9 +4497,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1805_1545720207867.jpg",
     "story": "• Um conjunto completo de sala de estar com estofamento clássico de tecido e acabamento de madeira retrô, projetado para acomodar com conforto até duas figuras adultas e dois bebês ao mesmo tempo.",
-    "members": [
-      "Código do Item : 1717"
-    ],
+    "members": ["Código do Item : 1717"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=24",
     "price": "R$ 80,00"
   },
@@ -4698,9 +4510,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1718_Kitchen_Set.jpg",
     "story": " Um grande e luxuoso conjunto de eletrodomésticos e utensílios individuais para montar uma cozinha completa do zero.",
-    "members": [
-      "Código do Item : 1718"
-    ],
+    "members": ["Código do Item : 1718"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=25",
     "price": "R$ 80,00"
   },
@@ -4713,9 +4523,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1719_Baby_Bed_Set.jpg",
     "story": "Um mini conjunto individual de dormitório focado estritamente no repouso confortável e seguro de um bebê do vilarejo.",
-    "members": [
-      "Código do Item : 1719"
-    ],
+    "members": ["Código do Item : 1719"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=26",
     "price": "R$ 80,00"
   },
@@ -4728,9 +4536,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/sp1720_Child_Desk_Set.jpg",
     "story": "• Uma estação de estudos completa e compacta, projetada especificamente para acomodar as figuras infantis (irmãos e irmãs mais velhas) do vilarejo.",
-    "members": [
-      "Código do Item : 1720"
-    ],
+    "members": ["Código do Item : 1720"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=27",
     "price": "R$ 80,00"
   },
@@ -4743,9 +4549,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915029223.PT03.jpg",
     "story": "Um conjunto de estofados premium para a sala de estar, planejado para acomodar com o máximo de conforto os moradores adultos e as crianças do vilarejo.",
-    "members": [
-      "Código do Item : 4464"
-    ],
+    "members": ["Código do Item : 4464"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=68",
     "price": "R$ 80,00"
   },
@@ -4758,9 +4562,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915029322.jpg",
     "story": " Um conjunto completo de decoração, buffet e móveis planejado para encenar uma festa de aniversário perfeita para até quatro convidados.",
-    "members": [
-      "Código do Item : 4269"
-    ],
+    "members": ["Código do Item : 4269"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=70",
     "price": "R$ 80,00"
   },
@@ -4773,9 +4575,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915029483.PT03.jpg",
     "story": "Uma estação de playground e proteção interna para bebês, focada em recreação e estímulo motor.",
-    "members": [
-      "Código do Item : 4457"
-    ],
+    "members": ["Código do Item : 4457"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=318",
     "price": "R$ 80,00"
   },
@@ -4788,9 +4588,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/81_1616489216781.jpg",
     "story": " Um carrinho de passeio compacto duplo, projetado especificamente para que dois bebês viagem um ao lado do outro.",
-    "members": [
-      "Código do Item : 4533"
-    ],
+    "members": ["Código do Item : 4533"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=81",
     "price": "R$ 80,00"
   },
@@ -4803,9 +4601,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915029193.PT04.jpg",
     "story": " Um conjunto modular de três camas infantis que podem ser empilhadas verticalmente ou usadas separadamente.",
-    "members": [
-      "Código do Item : 4448"
-    ],
+    "members": ["Código do Item : 4448"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=82",
     "price": "R$ 80,00"
   },
@@ -4818,9 +4614,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637035662.PT05.jpg",
     "story": "Este é um dos kits de eletrodomésticos mais essenciais de toda a franquia Sylvanian Families, sendo o par perfeito para ficar ao lado do Armário com Fogão ou da Cozinha 3 em 1 no andar térreo da Casa Telhado Vermelho com Luzes.",
-    "members": [
-      "Código do Item : 5021"
-    ],
+    "members": ["Código do Item : 5021"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=491",
     "price": "R$ 80,00"
   },
@@ -4849,9 +4643,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6qvdqcHQQvlJVMlWDsMhbXdiIcC_I3qnMNDtsXhlmbdgnX95JjZiUV38&s=10",
     "story": "Uma cama de casal de estilo vitoriano, planejada para acomodar confortavelmente até duas figuras adultas ao mesmo tempo.",
-    "members": [
-      "&quot;* Bed * Blanket * Pillow * Mattress&quot;"
-    ],
+    "members": ["&quot;* Bed * Blanket * Pillow * Mattress&quot;"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1373",
     "price": "R$ 80,00"
   },
@@ -4879,9 +4671,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131051917.jpg",
     "story": "Lindo conjunto de acessórios para meninas e bebês, com várias bolsas, brincos, óculos, tiaras e pulseiras.",
-    "members": [
-      "Código do Item : 5191"
-    ],
+    "members": ["Código do Item : 5191"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1255",
     "price": "R$ 80,00"
   },
@@ -4894,9 +4684,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131051924.PT02.jpg",
     "story": "Encantadores acessórios adequados para um dia de passeio, esse conjunto inclui chapéus, câmeras, bolsas, relógios, tiaras e pulseiras.",
-    "members": [
-      "Código do Item : 5192"
-    ],
+    "members": ["Código do Item : 5192"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1256",
     "price": "R$ 80,00"
   },
@@ -4909,9 +4697,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1725_dressing_table.jpg",
     "story": " Um toucador completo para a beleza e o cuidado pessoal.",
-    "members": [
-      "Código do Item : 1725"
-    ],
+    "members": ["Código do Item : 1725"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=314",
     "price": "R$ 80,00"
   },
@@ -4924,9 +4710,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637028183.PT03.jpg",
     "story": " Um conjunto completo para refeições para duas pessoas.",
-    "members": [
-      "Código do Item : 4717"
-    ],
+    "members": ["Código do Item : 4717"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=874",
     "price": "R$ 80,00"
   },
@@ -4939,9 +4723,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9Xe3QGt7DpIfFMtsdClHCLquEEhAC5OLbbIyBEN9cfJpZyaNCZJENp0&s=10",
     "story": " Um conjunto completo para churrasco em família.",
-    "members": [
-      "Código do Item : 5091"
-    ],
+    "members": ["Código do Item : 5091"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=876",
     "price": "R$ 80,00"
   },
@@ -4954,9 +4736,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637035617.PT03.jpg",
     "story": "• Uma bancada de cozinha integrada dois-em-um, que une uma pia de lavagem de louças e um fogão com forno embutido na mesma estrutura.",
-    "members": [
-      "Código do Item : 5023"
-    ],
+    "members": ["Código do Item : 5023"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=496",
     "price": "R$ 80,00"
   },
@@ -4969,9 +4749,7 @@
     "category": "Móveis e Acessórios",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1959_1571897552079.jpg",
     "story": " Um conjunto completo focado no cuidado e na lavagem das pequenas peças de pano.",
-    "members": [
-      "Código do Item : 5027"
-    ],
+    "members": ["Código do Item : 5027"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=494",
     "price": "R$ 80,00"
   },
@@ -5298,9 +5076,7 @@
     "category": "Ambientes",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915029537.PT03.jpg",
     "story": "Um grandioso conjunto de mobília infanto-juvenil focado em três grandes atividades: o descanso, o estudo e a música",
-    "members": [
-      "Código do Item : 5032"
-    ],
+    "members": ["Código do Item : 5032"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=86",
     "price": "R$ 80,00"
   },
@@ -5313,9 +5089,7 @@
     "category": "Ambientes",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2957_nightlight_nursery_set_pink_2.jpg",
     "story": " Um conjunto completo de quarto noturno infantil focado no descanso, no conforto e no combate ao medo do escuro dos menores moradores da vila.",
-    "members": [
-      "Código do Item : 2957"
-    ],
+    "members": ["Código do Item : 2957"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=321",
     "price": "R$ 80,00"
   },
@@ -5328,9 +5102,7 @@
     "category": "Ambientes",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915029513.PT03.jpg",
     "story": " Um conjunto completo de jantar de estilo colonial britânico, planejado para acomodar uma família numerosa inteira de uma só vez.",
-    "members": [
-      "Código do Item : 5033"
-    ],
+    "members": ["Código do Item : 5033"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=84",
     "price": "R$ 80,00"
   },
@@ -5343,9 +5115,7 @@
     "category": "Ambientes",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915029544.PT03.jpg",
     "story": "Um conjunto completo de dormitório e playground infantil para bebês, focado em tons de azul-pastel, amarelo e detalhes coloridos.",
-    "members": [
-      "Código do Item : 5036"
-    ],
+    "members": ["Código do Item : 5036"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=87",
     "price": "R$ 80,00"
   },
@@ -5358,9 +5128,7 @@
     "category": "Ambientes",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN5TB1ysFX4Tb38B2gxNgnuA0S806McKGMNP5IIO6D3gz30DUUPX6pJi4&s=10",
     "story": " O conjunto de sala de estar mais luxuoso e aristocrático da franquia, inspirado nos tradicionais casarões de inverno europeus.",
-    "members": [
-      "Código do Item : 5037"
-    ],
+    "members": ["Código do Item : 5037"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=498",
     "price": "R$ 80,00"
   },
@@ -5373,9 +5141,7 @@
     "category": "Ambientes",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1702_country_living_room_set_3.jpg",
     "story": "•  Um luxuoso conjunto de sala de estar com estofamento clássico de tecido e acabamento que imita madeira rústica, projetado para acomodar até duas figuras adultas e dois bebês ao mesmo tempo.",
-    "members": [
-      "Código do Item : 1702"
-    ],
+    "members": ["Código do Item : 1702"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=325",
     "price": "R$ 80,00"
   },
@@ -5388,9 +5154,7 @@
     "category": "Ambientes",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1703_country_kitchen_set_1.jpg",
     "story": "Este clássico kit de expansão é um dos favoritos para mobiliar o andar térreo da Casa Telhado Vermelho com Luzes, pois traz uma personagem cheia de energia e uma bancada repleta de utensílios hiperdetalhados.",
-    "members": [
-      "Código do Item : 1703"
-    ],
+    "members": ["Código do Item : 1703"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=326",
     "price": "R$ 80,00"
   },
@@ -5403,9 +5167,7 @@
     "category": "Ambientes",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1704_country_bathroom_set_2.jpg",
     "story": "Este conjunto de banheiro é perfeito para criar um espaço acolhedor e funcional em qualquer quarto.",
-    "members": [
-      "Código do Item : 1704"
-    ],
+    "members": ["Código do Item : 1704"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=327",
     "price": "R$ 80,00"
   },
@@ -5418,9 +5180,7 @@
     "category": "Ambientes",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1705_Nursery_Room_Set_3.jpg",
     "story": "Um conjunto completo de mobília infantil em tons pastel e detalhes acolhedores, projetado especialmente para acomodar e entreter até três bebês ao mesmo tempo.",
-    "members": [
-      "Código do Item : 1705"
-    ],
+    "members": ["Código do Item : 1705"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=475",
     "price": "R$ 80,00"
   },
@@ -5722,9 +5482,7 @@
     "category": "Casas",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/5054131052426.PT03.jpg",
     "story": "Uma charmosa casa compacta de dois andares com telhado vermelho, feita sob medida para abrigar uma figura pequena e um conjunto básico de móveis.  O set já vem de fábrica com a Freya Chocolate, a icônica Menina Coelho Chocolate que é o rosto oficial da marca no mundo inteiro. Ela vem vestindo o seu clássico vestidinho vermelho de bolinhas brancas.",
-    "members": [
-      "Código do Item : 5242"
-    ],
+    "members": ["Código do Item : 5242"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1441",
     "price": "R$ 400,00"
   },
@@ -5737,9 +5495,7 @@
     "category": "Casas",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915027526.PT05.jpg",
     "story": "É o verdadeiro coração residencial do vilarejo e a mansão oficial da Família Coelho Chocolate.",
-    "members": [
-      "Código do Item : 2752"
-    ],
+    "members": ["Código do Item : 2752"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=61",
     "price": "R$ 400,00"
   },
@@ -5752,9 +5508,7 @@
     "category": "Casas",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vMd3unV8F0Kad_NA-IL7oXgJM_jpyA9OZmL1PTnuTg&s=10",
     "story": "Uma residência em estilo sobrado urbano de três andares com a parte traseira totalmente aberta, facilitando o acesso para mobiliar e brincar nos cômodos.",
-    "members": [
-      "Código do Item : 2745"
-    ],
+    "members": ["Código do Item : 2745"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=289",
     "price": "R$ 400,00"
   },
@@ -5767,9 +5521,7 @@
     "category": "Casas",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_ctLsT0cEsghBfnVAHCanL9nc48r6_KISg-1LJV1dYeGoqGt5Il0bL8&s=10",
     "story": " Um chalé de férias com dois andares e um visual rústico que imita troncos de madeira natural. É o esconderijo favorito de todos os moradores que buscam sossego na floresta.",
-    "members": [
-      "Código do Item : 4370"
-    ],
+    "members": ["Código do Item : 4370"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=504",
     "price": "R$ 400,00"
   },
@@ -5782,9 +5534,7 @@
     "category": "Casas",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0fZeoQSXO1lmyxdhI8wWs5K0CnOKTjcKqRlwOuuVXQ&s=10",
     "story": "Um playground vertical massivo construído ao redor de um tronco de árvore gigante, feito para os bonecos brincarem ao ar livre.",
-    "members": [
-      "Código do Item : 4618"
-    ],
+    "members": ["Código do Item : 4618"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=505",
     "price": "R$ 400,00"
   },
@@ -5845,9 +5595,7 @@
     "category": "Veículos",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2688_1769581832897.jpg",
     "story": "Este ônibus de dois andares do jardim de infância acomoda 17 bebês. Você pode fingir que está levando os bebês para o jardim de infância ao mudar o letreiro de destino do ônibus e abrir e fechar a porta. Pressionar o botão no andar superior abaixa a escada, permitindo que bebês e gêmeos subam e desçam entre andares. O ônibus tem uma cor amarela viva para simbolizar o sol.",
-    "members": [
-      "Unidade principal"
-    ],
+    "members": ["Unidade principal"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2688",
     "price": "R$ 80,00"
   },
@@ -5938,9 +5686,7 @@
     "category": "Veículos",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWcSsZO9V9mh_Q9R8vA2hXiSaiLlOaXxt3-K-eBLYdF5PJn1jwh6CukY&s=10",
     "story": "O veículo esportivo definitivo para os dias ensolarados. Com uma lataria brilhante em tons modernos como o clássico vermelho-fechado, ele é sinônimo de liberdade e passeios de fim de semana na praia.",
-    "members": [
-      "Código do Item : 5227"
-    ],
+    "members": ["Código do Item : 5227"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=1377",
     "price": "R$ 80,00"
   },
@@ -5953,9 +5699,7 @@
     "category": "Veículos",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/1861_family_saloon_car_5.jpg",
     "story": " O meio de transporte oficial e mais vendido do vilarejo, ideal para levar os bonecos para passeios no campo ou viagens até a Cidade.",
-    "members": [
-      "Código do Item : 1861"
-    ],
+    "members": ["Código do Item : 1861"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=332",
     "price": "R$ 80,00"
   },
@@ -6089,9 +5833,7 @@
     "category": "Lojas",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637028879.PT03.jpg",
     "story": "O Supermercado vende adoráveis frutas e legumes frescos. Há um carrinho em que cabem todas as compras da família. Ele pode ser conectado à Loja de Brinquedos e à Loja de Doces, apenas unindo as lojas.",
-    "members": [
-      "Código do Item : 5049"
-    ],
+    "members": ["Código do Item : 5049"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=526",
     "price": "R$ 120,00"
   },
@@ -6104,9 +5846,7 @@
     "category": "Lojas",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637028886.PT03.jpg",
     "story": "Uma linda loja de brinquedos com um telhado azul celeste e bela decoração interior, com vários brinquedos e um espaço para as crianças brincarem. Pode ser conectado com o Supermercado e Loja de Doces, apenas unindo as lojas.",
-    "members": [
-      "Código do Item : 5050"
-    ],
+    "members": ["Código do Item : 5050"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=527",
     "price": "R$ 120,00"
   },
@@ -6119,9 +5859,7 @@
     "category": "Lojas",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637028893.PT03.jpg",
     "story": "A Loja de Doces inclui cupcakes coloridos, biscoitos de vários formatos, pirulitos e alguns acessórios. Pode ser conectada ao Supermercado e Loja de Brinquedos, apenas unindo as lojas.",
-    "members": [
-      "Código do Item : 5051"
-    ],
+    "members": ["Código do Item : 5051"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=528",
     "price": "R$ 120,00"
   },
@@ -6134,9 +5872,7 @@
     "category": "Lojas",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8711915024013.jpg",
     "story": "Mamãe e Bebê Rato Branco com carrinho de supermecado fazendo compras de produtos variados.",
-    "members": [
-      "Código do Item : 5043"
-    ],
+    "members": ["Código do Item : 5043"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=123",
     "price": "R$ 120,00"
   },
@@ -6149,9 +5885,7 @@
     "category": "Lojas",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2808_ice_cream_van_1.jpg",
     "story": "O Carrinho de Sorvete é um dos maiores clássicos de Sylvanian Families! Ele é aquele item indispensável que traz toda a nostalgia dos comércios de rua do vilarejo e que todo colecionador quer ter na sua coleção.",
-    "members": [
-      "Código do Item : 2808"
-    ],
+    "members": ["Código do Item : 2808"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=301",
     "price": "R$ 120,00"
   },
@@ -6164,9 +5898,7 @@
     "category": "Lojas",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637028121.PT03.jpg",
     "story": "É um dos mini comércios mais clássicos e amados da franquia. Projetado como uma lojinha móvel, ele permite que os personagens circulem pelo vilarejo vendendo guloseimas para os bebês e crianças.",
-    "members": [
-      "Código do Item : 5053"
-    ],
+    "members": ["Código do Item : 5053"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=881",
     "price": "R$ 120,00"
   },
@@ -6338,9 +6070,7 @@
     "category": "Jardim da Infância e Escola",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637035877.PT03.jpg",
     "story": "O icônico antecessor do atual Castelo Ensolarado, com uma estética vintage de contos de fadas, este edifício simula uma escolinha mágica construída ao redor de uma árvore frondosa.",
-    "members": [
-      "Código do Item : 5100"
-    ],
+    "members": ["Código do Item : 5100"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=886",
     "price": "R$ 80,00"
   },
@@ -6353,9 +6083,7 @@
     "category": "Jardim da Infância e Escola",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637035884.PT03.jpg",
     "story": "É o veículo de três andares que transporta os alunos, e o ônibus se transforma em uma grande área de recreação.",
-    "members": [
-      "Código do Item : 5275"
-    ],
+    "members": ["Código do Item : 5275"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=887",
     "price": "R$ 80,00"
   },
@@ -6368,9 +6096,7 @@
     "category": "Jardim da Infância e Escola",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637035891.PT02.jpg",
     "story": "O cenário clássico que simula uma salinha de aula ou creche para os bonecos bebês.",
-    "members": [
-      "Código do Item : 5102"
-    ],
+    "members": ["Código do Item : 5102"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=888",
     "price": "R$ 80,00"
   },
@@ -6383,9 +6109,7 @@
     "category": "Jardim da Infância e Escola",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637035907.PT02.jpg",
     "story": "Um passeio ao ar livre aonde os bebês podem brincar e levar seus próprios lanchinhos.",
-    "members": [
-      "Código do Item : 5103"
-    ],
+    "members": ["Código do Item : 5103"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=889",
     "price": "R$ 80,00"
   },
@@ -6398,9 +6122,7 @@
     "category": "Jardim da Infância e Escola",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637035914.PT03.jpg",
     "story": "Uma linda festa temática no jardim para os pequeninos.",
-    "members": [
-      "Código do Item : 5104"
-    ],
+    "members": ["Código do Item : 5104"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=890",
     "price": "R$ 80,00"
   },
@@ -6413,9 +6135,7 @@
     "category": "Profissões",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637028152.PT03.jpg",
     "story": "A construção tem formato arredondado e vem com tudo que uma Clínica precisa para atender bem seus pacientes. Pode ser conectada à Minha Primeira Casa e à Casa da Cidade com Luzes.",
-    "members": [
-      "Código do Item : 5096"
-    ],
+    "members": ["Código do Item : 5096"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=883",
     "price": "R$ 150,00"
   },
@@ -6428,9 +6148,7 @@
     "category": "Profissões",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637028169.PT03.jpg",
     "story": "A Mamãe Coelha Leitosa é uma enfermeira muito querida pelos seus pacientes, e tem tudo que precisa para cuidar deles com carinho.",
-    "members": [
-      "Código do Item : 5094"
-    ],
+    "members": ["Código do Item : 5094"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=884",
     "price": "R$ 150,00"
   },
@@ -6443,9 +6161,7 @@
     "category": "Profissões",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/8718637028176.PT05.jpg",
     "story": "O Pai Coelho Chocolate é um dentista muito competente, e sempre parabeniza as crianças que se comportam durante a consulta.",
-    "members": [
-      "Código do Item : 5095"
-    ],
+    "members": ["Código do Item : 5095"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=885",
     "price": "R$ 150,00"
   },
@@ -6507,11 +6223,7 @@
     "category": "Conjuntos",
     "image": "https://www.sylvanianfamilies.com/assets/includes_gl/img/products/2397_1671685880709.jpg",
     "story": "O pai e o bebê Gato Floral Minos empurrando o carrinho da sua bebê Keana em um passeio agradável no parque!",
-    "members": [
-      "Pai Gato Floral",
-      "bebê Gato Floral",
-      "carruagem"
-    ],
+    "members": ["Pai Gato Floral", "bebê Gato Floral", "carruagem"],
     "officialUrl": "https://www.sylvanianfamilies.com/pt-br/catalog/item_detail.php?product_id=2397",
     "price": "R$ 80,00"
   },
