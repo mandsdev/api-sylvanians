@@ -91,7 +91,7 @@
       <p v-else-if="error" class="py-12 text-center text-[#630a28]" role="alert">
         Não foi possível carregar o catálogo. Tente novamente.
       </p>
-      <p v-else-if="!response?.results.length" class="py-12 text-center text-[#946172]">
+      <p v-else-if="!response?.results.length" class="wrap-break-word py-12 text-center text-[#946172]">
         Nenhum item encontrado para “{{ search }}”.
       </p>
 
