@@ -8,6 +8,7 @@ interface Sylvanian {
   image: string
   story: string
   members: string[]
+  price?: string
   releaseYear?: string
 }
 
