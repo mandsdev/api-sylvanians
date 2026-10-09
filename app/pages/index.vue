@@ -116,7 +116,7 @@
             </div>
             <h3 class="text-lg font-semibold">{{ family.name }}</h3>
             <p class="mt-1 text-sm text-[#68776a] italic">
-              {{ (family as any).price ?? 'Preço não informado' }}
+              {{ family.price ?? 'Preço não informado' }}
             </p>
             <p class="mt-1 text-sm text-[#68776a] italic">{{ family.originalName }}</p>
             <p class="mt-4 mb-6 text-sm leading-6 text-[#47554a]">{{ family.story }}</p>
