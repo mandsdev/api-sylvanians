@@ -19,7 +19,7 @@
             class="grid size-12 place-items-center rounded-full bg-[#f288ab] text-lg text-white"
             aria-hidden="true"
             ><img
-              src="https://www.sugoimart.com/cdn/shop/collections/SylvanianFamiliesIcon.png?v=1748936071"
+              src="https://www.sugoimart.com/cdn/shop/collections/SylvanianFamiliesIcon.png?v=1748936071" alt=""
           /></span>
           <span>
             <span class="block text-lg leading-tight font-semibold text-[#630a28]"
