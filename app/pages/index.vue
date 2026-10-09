@@ -35,7 +35,7 @@
     </header>
 
     <div
-      v-if="isSidebarOpen"
+      v-show="isSidebarOpen"
       class="fixed inset-0 z-40 bg-[#26332b]/35"
       @click="isSidebarOpen = false"></div>
     <aside
