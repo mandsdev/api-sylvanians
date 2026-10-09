@@ -5,7 +5,7 @@
 </script>
 
 <template>
-  <main class="min-h-screen bg-[#f7f4ee] text-[#26332b]">
+  <main class="min-h-screen bg-[#f7f4ee] text-[#26332b]" @keydown.esc="isSidebarOpen = false">
     <header class="border-b border-[#d9dfd5] bg-[#fdfcf8]">
       <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-5 py-5 sm:px-8">
         <button
@@ -19,7 +19,7 @@
             class="grid size-12 place-items-center rounded-full bg-[#f288ab] text-lg text-white"
             aria-hidden="true"
             ><img
-              src="https://www.sugoimart.com/cdn/shop/collections/SylvanianFamiliesIcon.png?v=1748936071" alt=""
+              src="https://www.sugoimart.com/cdn/shop/collections/SylvanianFamiliesIcon.png?v=1748936071"
           /></span>
           <span>
             <span class="block text-lg leading-tight font-semibold text-[#630a28]"
@@ -39,7 +39,7 @@
       class="fixed inset-0 z-40 bg-[#26332b]/35"
       @click="isSidebarOpen = false"></div>
     <aside
-      v-if="isSidebarOpen"
+      v-show="isSidebarOpen"
       id="collection-sidebar"
       class="fixed inset-y-0 left-0 z-50 flex w-72 max-w-[85vw] flex-col border-r border-[#d9dfd5] bg-[#fdfcf8] p-6 shadow-xl"
       aria-label="Menu principal">
@@ -70,7 +70,7 @@
             Encontre sua próxima família favorita.
           </h1>
           <p class="mt-4 ml-16 max-w-xl text-center text-base leading-7 text-[#630a28]">
-            Explore os itens, conheça suas histórias e descubra tudo.
+            Explore os items, conheça suas histórias e descubra tudo.
           </p>
         </div>
         <Search v-model="search" />
@@ -91,7 +91,7 @@
       <p v-else-if="error" class="py-12 text-center text-[#630a28]" role="alert">
         Não foi possível carregar o catálogo. Tente novamente.
       </p>
-      <p v-else-if="!response?.results.length" class="wrap-break-word py-12 text-center text-[#946172]">
+      <p v-else-if="!response?.results.length" class="py-12 text-center text-[#946172]">
         Nenhum item encontrado para “{{ search }}”.
       </p>
 
@@ -103,7 +103,7 @@
           <img
             :src="family.image"
             :alt="family.name"
-            class="aspect-5/5 w-full bg-[#e8e9df] object-cover"
+            class="aspect-square w-full bg-[#e8e9df] object-cover"
             loading="lazy" />
           <div class="flex flex-1 flex-col p-6">
             <div class="mb-2 flex items-center justify-between gap-3">
